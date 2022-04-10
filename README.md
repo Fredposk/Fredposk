@@ -1,25 +1,22 @@
 Hello, this is **Frederico** 👋 
 -
 
-I'm an **iOS Developer**  living in **Berlin**  🇩🇪 building apps and working on an examination platform for aviation ✈️ students.
+I'm an **iOS Developer** living in **Berlin** 🇩🇪 building apps and working on an examination platform for aviation ✈️ students.
  
-I love **Swift** and **iOS Development** 📱.
+I love **Swift** and **iOS Development** 📱 participating in multiple development groups; Learning and helping 🤝 
 
-I have flight licenses from Brazil 🇧🇷 and Poland 🇵🇱 and aviation is my hobby. 
+Aviation is my hobby - I have flight licenses from Brazil 🇧🇷 and Poland 🇵🇱
 
-I love being part of development of mobile technologies.
-
-I like to participate in iOS groups learning and helping 🤝 
-
-I build things while exploring concepts and put them on GitHub. 
+[Here](https://github.com/Fredposk) you will find things I build and develop while exploring new concepts 
 
 Currently working through: 
-- 📚   [ **Modern Concurrency in Swift**](https://www.raywenderlich.com/books/modern-concurrency-in-swift/v1.0)
+
+- 📚 [ **Modern Concurrency in Swift**](https://www.raywenderlich.com/books/modern-concurrency-in-swift/v1.0)
 - 💻 [ **Data Structures and Algorithms**](https://www.udemy.com/course/the-swift-arcade-data-structures-and-algorithms-bootcamp/)
 
 
 Let's connect:
-- 🏹  [ **LinkedIn**](https://www.linkedin.com/in/fkueckelhaus/)
+- 🏹 [ **LinkedIn**](https://www.linkedin.com/in/fkueckelhaus/)
 
 
 <details>

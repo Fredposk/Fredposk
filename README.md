@@ -12,7 +12,7 @@ Aviation is my hobby - I have flight licenses from Brazil 🇧🇷 and Poland �
 Currently working through: 
 
 - 📚 [ **Modern Concurrency in Swift**](https://www.raywenderlich.com/books/modern-concurrency-in-swift/v1.0)
-- 💻 [ **Data Structures and Algorithms**](https://www.udemy.com/course/the-swift-arcade-data-structures-and-algorithms-bootcamp/)
+- 💻 [ **GraphQL with iOS**](https://www.udemy.com/course/graphql-in-ios-using-swift/)
 
 
 Let's connect:

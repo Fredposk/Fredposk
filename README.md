@@ -1,18 +1,11 @@
 Hello, this is **Frederico** 👋 
 -
 
-I'm an **iOS Developer** living in **Berlin** 🇩🇪 building apps and working on an examination platform for aviation ✈️ students.
+I'm an **iOS Developer** living in **Berlin** 🇩🇪 building apps and working at ContentScope.
  
-I love **Swift** and **iOS Development** 📱 participating in multiple development groups; Learning and helping 🤝 
-
-Aviation is my hobby - I have flight licenses from Brazil 🇧🇷 and Poland 🇵🇱
+I love **Swift** and **iOS Development** 📱 participating in multiple development groups
 
 [Here](https://github.com/Fredposk) you will find things I build and develop while exploring new concepts 
-
-Currently working through: 
-
-- 📚 [ **Modern Concurrency in Swift**](https://www.raywenderlich.com/books/modern-concurrency-in-swift/v1.0)
-- 💻 [ **GraphQL with iOS**](https://www.udemy.com/course/graphql-in-ios-using-swift/)
 
 
 Let's connect:
